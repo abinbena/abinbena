@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abin Bena</h1>
-<h3 align="center">A motivated and detail-oriented fresh graduate from Telkom University with a strong enthusiasm for Data Analysis and Information Technology</h3>
+<h3 align="center">A motivated and detail-oriented fresh graduate from Telkom University with a strong enthusiasm for Data Analysis and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Advanced Machine Learning with TensorFlow**
 
